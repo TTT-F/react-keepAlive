@@ -1,0 +1,22 @@
+{
+  "name": "react-keepalive",
+  "version": "1.0.0",
+  "description": "keep react Component Alive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTT-F/react-keepAlive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTT-F/react-keepAlive/issues"
+  },
+  "homepage": "https://github.com/TTT-F/react-keepAlive#readme",
+  "dependencies": {
+    "webpack": "^5.88.2"
+  }
+}
